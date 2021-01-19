@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Indovina Somma</string>
+    <string name="intro">Benvenuto! Lo scopo del gioco è indovinare la somma dei due dadi, se sbaglierai perderai la puntata, altrimenti la vincerai.</string>
+    <string name="saldo">Saldo: %d</string>
+    <string name="puntata">Puntata: %d</string>
+    <string name="somma">Quanto fa? Spara.</string>
+    <string name="hintInput">Quanto punti?</string>
+    <string name="buttonString">PUNTA</string>
+    <string name="hintTry">Inserire la somma</string>
+    <string name="buttonCheck">PROVA</string>
+    <string name="resultString">Hai vinto?</string>
+    <string name="facciaDado">faccia_dado%d.png</string>
+    <string name="resetButton">ALTRA MANO</string>
+</resources>
